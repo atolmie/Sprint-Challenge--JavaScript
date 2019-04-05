@@ -7,8 +7,6 @@
   * In the body of the function return the callback with the two parameters that you created
 */
 
-console.warn('CALLBACKS')
-
 function consume(num1, num2, callback) {
   return callback(num1, num2)
 }

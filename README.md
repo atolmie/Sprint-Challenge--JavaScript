@@ -33,11 +33,13 @@ Edit this document to include your answers after each question. Make sure to lea
 A method also has an object property
 3. What is closure?                                              
 Closures are functions that refer to independent (free) variables. In other words, the function defined in the closure ‘remembers’ the environment in which it was created. 
-4. Describe the four rules of the 'this' keyword.                                    Window/Global Object Binding                 
+4. Describe the four rules of the 'this' keyword.                                    
+Window/Global Object Binding                 
  Implicit Binding                                               
  New Binding                                                   
 Explicit Binding 
-5. Why do we need super() in an extended class?                                      We need it to pass any new attributes back up to the constructor of the parent object.
+5. Why do we need super() in an extended class?                                      
+We need it to pass any new attributes back up to the constructor of the parent object.
 
 
 ## Project Set up
